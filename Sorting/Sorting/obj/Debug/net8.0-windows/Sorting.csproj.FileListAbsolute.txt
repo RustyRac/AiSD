@@ -1,0 +1,16 @@
+C:\Users\Tlusty\source\repos\Sorting\Sorting\bin\Debug\net8.0-windows\Sorting.exe
+C:\Users\Tlusty\source\repos\Sorting\Sorting\bin\Debug\net8.0-windows\Sorting.deps.json
+C:\Users\Tlusty\source\repos\Sorting\Sorting\bin\Debug\net8.0-windows\Sorting.runtimeconfig.json
+C:\Users\Tlusty\source\repos\Sorting\Sorting\bin\Debug\net8.0-windows\Sorting.dll
+C:\Users\Tlusty\source\repos\Sorting\Sorting\bin\Debug\net8.0-windows\Sorting.pdb
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.Form1.resources
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.csproj.GenerateResource.cache
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.AssemblyInfoInputs.cache
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.AssemblyInfo.cs
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.dll
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\refint\Sorting.dll
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.pdb
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\Sorting.genruntimeconfig.cache
+C:\Users\Tlusty\source\repos\Sorting\Sorting\obj\Debug\net8.0-windows\ref\Sorting.dll
