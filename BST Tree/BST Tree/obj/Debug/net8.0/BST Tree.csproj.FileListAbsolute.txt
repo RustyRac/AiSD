@@ -1,0 +1,14 @@
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\bin\Debug\net8.0\BST Tree.exe
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\bin\Debug\net8.0\BST Tree.deps.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\bin\Debug\net8.0\BST Tree.runtimeconfig.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\bin\Debug\net8.0\BST Tree.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\bin\Debug\net8.0\BST Tree.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\BST Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\BST Tree.AssemblyInfoInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\BST Tree.AssemblyInfo.cs
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\BST Tree.csproj.CoreCompileInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\BST Tree.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\refint\BST Tree.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\BST Tree.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\BST Tree.genruntimeconfig.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\BST Tree\BST Tree\obj\Debug\net8.0\ref\BST Tree.dll

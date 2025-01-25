@@ -1,0 +1,10 @@
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\bin\Debug\algorytmDijkstry.exe.config
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\bin\Debug\algorytmDijkstry.exe
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\bin\Debug\algorytmDijkstry.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\obj\Debug\Dijkstra.csproj.AssemblyReference.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\obj\Debug\algorytmDijkstry.Properties.Resources.resources
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\obj\Debug\Dijkstra.csproj.GenerateResource.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\obj\Debug\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\obj\Debug\algorytmDijkstry.exe
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\obj\Debug\algorytmDijkstry.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Dijkstra\obj\Debug\Dijkstra.Form1.resources

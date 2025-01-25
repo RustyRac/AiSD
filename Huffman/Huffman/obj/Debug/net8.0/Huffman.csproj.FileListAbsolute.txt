@@ -1,0 +1,14 @@
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\bin\Debug\net8.0\Huffman.exe
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\bin\Debug\net8.0\Huffman.deps.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\bin\Debug\net8.0\Huffman.runtimeconfig.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\bin\Debug\net8.0\Huffman.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\bin\Debug\net8.0\Huffman.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\Huffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfoInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfo.cs
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\Huffman.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\refint\Huffman.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\Huffman.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\Huffman.genruntimeconfig.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Huffman\Huffman\obj\Debug\net8.0\ref\Huffman.dll
