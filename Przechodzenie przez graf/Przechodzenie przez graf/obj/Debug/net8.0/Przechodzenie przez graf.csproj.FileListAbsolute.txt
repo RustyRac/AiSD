@@ -1,0 +1,14 @@
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\bin\Debug\net8.0\Przechodzenie przez graf.exe
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\bin\Debug\net8.0\Przechodzenie przez graf.deps.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\bin\Debug\net8.0\Przechodzenie przez graf.runtimeconfig.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\bin\Debug\net8.0\Przechodzenie przez graf.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\bin\Debug\net8.0\Przechodzenie przez graf.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\Przechodzenie przez graf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\Przechodzenie przez graf.AssemblyInfoInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\Przechodzenie przez graf.AssemblyInfo.cs
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\Przechodzenie przez graf.csproj.CoreCompileInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\Przechodzenie przez graf.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\refint\Przechodzenie przez graf.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\Przechodzenie przez graf.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\Przechodzenie przez graf.genruntimeconfig.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Przechodzenie przez graf\Przechodzenie przez graf\obj\Debug\net8.0\ref\Przechodzenie przez graf.dll

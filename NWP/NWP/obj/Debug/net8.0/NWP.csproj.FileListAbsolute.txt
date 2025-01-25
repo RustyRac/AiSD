@@ -1,0 +1,14 @@
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\bin\Debug\net8.0\NWP.exe
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\bin\Debug\net8.0\NWP.deps.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\bin\Debug\net8.0\NWP.runtimeconfig.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\bin\Debug\net8.0\NWP.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\bin\Debug\net8.0\NWP.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\NWP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\NWP.AssemblyInfoInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\NWP.AssemblyInfo.cs
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\NWP.csproj.CoreCompileInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\NWP.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\refint\NWP.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\NWP.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\NWP.genruntimeconfig.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\NWP\NWP\obj\Debug\net8.0\ref\NWP.dll

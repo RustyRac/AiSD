@@ -1,0 +1,14 @@
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\bin\Debug\net8.0\Kruskal.exe
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\bin\Debug\net8.0\Kruskal.deps.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\bin\Debug\net8.0\Kruskal.runtimeconfig.json
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\bin\Debug\net8.0\Kruskal.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\bin\Debug\net8.0\Kruskal.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\Kruskal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\Kruskal.AssemblyInfoInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\Kruskal.AssemblyInfo.cs
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\Kruskal.csproj.CoreCompileInputs.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\Kruskal.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\refint\Kruskal.dll
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\Kruskal.pdb
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\Kruskal.genruntimeconfig.cache
+C:\Users\Tlusty\Desktop\Zadania Domowe AiSD\Kruskal\Kruskal\obj\Debug\net8.0\ref\Kruskal.dll
